@@ -64,7 +64,7 @@ Note: Dataset name was not provided officially. For this project, it is referred
 # About Me#
 My name is **Sarat Alabi**, and I'm a data girl who loves telling stories with numbers. If there is data, I'm prepared to uncover the narrative it conveys, whether it concerns HR, business, or social impact.
 
-🤝 ##Connect with Me##
+## Connect with Me
 LinkedIn: https://www.linkedin.com/in/sarat-alabi/
 Email: saratalabi9@gmail.com
 GitHub: @AlabiSarat09
