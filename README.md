@@ -9,10 +9,15 @@ Finding out which aspects of their workforce are performing well and where there
 
 The purpose of this project is to investigate workforce data to address important questions:
 • What are the most and least productive departments?
+
 • Do workers with longer tenure perform better?
+
 • What effect does location have on worker performance?
+
 • Do pay scales correspond to output?
+
 • Where should HR concentrate its efforts on development or retention?
+
 By revealing these insights, this analysis assists companies such as Interswitch in making data-driven choices that enhance employee performance, retention, and workforce strategy optimization.
 
 ## Objective
@@ -20,8 +25,11 @@ To evaluate employee performance across departments, locations, and tenure range
 
 ## Dataset
 • Source: Interswitch Group (via Job Shadowing Program)
+
 • Nature: Workforce dataset covering departments, tenure, locations, salary, and performance ratings.
+
 • Tools Used: Microsoft Power BI, Microsoft Excel
+
 Note: Dataset name was not provided officially. For this project, it is referred to as **employee-performance-interswitch.**
 
 ## Key Findings
@@ -53,7 +61,9 @@ Note: Dataset name was not provided officially. For this project, it is referred
 
 ##  Tools Used
 • Power BI: Data cleaning, visualization, and dashboard creation
+
 • Microsoft Excel: Data exploration
+
 • GitHub: Project documentation
 
 ## DASHBOARDS CREATED
@@ -65,7 +75,9 @@ Note: Dataset name was not provided officially. For this project, it is referred
 My name is **Sarat Alabi**, and I'm a data girl who loves telling stories with numbers. If there is data, I'm prepared to uncover the narrative it conveys, whether it concerns HR, business, or social impact.
 
 ## Connect with Me
-LinkedIn: https://www.linkedin.com/in/sarat-alabi/
-Email: saratalabi9@gmail.com
-GitHub: @AlabiSarat09
+• LinkedIn: https://www.linkedin.com/in/sarat-alabi/
+
+• Email: saratalabi9@gmail.com
+
+• GitHub: @AlabiSarat09
 
